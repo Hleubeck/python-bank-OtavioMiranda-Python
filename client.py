@@ -40,6 +40,6 @@ if __name__ == "__main__":
     print(c1)
     print(c1.account)
     c2 = BankClient("Ipsum", 27)
-    c2.account = account.CurrentAccount(310, 817, 50000)
+    c2.account = account.CurrentAccount(557, 362, 5000)
     print(c2)
     print(c2.account)
